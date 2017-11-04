@@ -56,6 +56,16 @@
 		</plugins>
 		<finalName>wgh.excel</finalName>
 	</build>
+	<contributors>
+		<contributor>
+			<name>wingahi</name>
+			<email>wingahi1991@sina.com</email>
+		</contributor>
+	</contributors>
+	<scm>
+		<connection>https://github.com/wingahi/wgh.excel.git/trunk</connection>
+		<developerConnection>https://github.com/wingahi/wgh.excel.git/trunk</developerConnection>
+	</scm>
 	<developers>
 		<developer>
 			<id>wingahi</id>
